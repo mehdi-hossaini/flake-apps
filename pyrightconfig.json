@@ -1,0 +1,6 @@
+{
+  "include": ["flake_apps.py", "tests"],
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Linux",
+  "typeCheckingMode": "basic"
+}
